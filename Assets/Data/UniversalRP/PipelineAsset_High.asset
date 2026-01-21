@@ -59,15 +59,15 @@ MonoBehaviour:
   m_ShadowCascadeCount: 4
   m_Cascade2Split: 0.20930393
   m_Cascade3Split: {x: 0.1, y: 0.3}
-  m_Cascade4Split: {x: 0.053413056, y: 0.13206536, z: 0.42623913}
-  m_CascadeBorder: 0.1
+  m_Cascade4Split: {x: 0.43476906, y: 0.61794114, z: 0.7962955}
+  m_CascadeBorder: 0.041176476
   m_ShadowDepthBias: 0.75
   m_ShadowNormalBias: 0.75
   m_AnyShadowsSupported: 1
   m_SoftShadowsSupported: 1
   m_ConservativeEnclosingSphere: 0
   m_NumIterationsEnclosingSphere: 64
-  m_SoftShadowQuality: 2
+  m_SoftShadowQuality: 3
   m_AdditionalLightsCookieResolution: 2048
   m_AdditionalLightsCookieFormat: 3
   m_UseSRPBatcher: 0
